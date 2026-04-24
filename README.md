@@ -84,8 +84,6 @@ I'm a Full Stack Developer focused on React.js, Next.js, TypeScript, JavaScript,
   </a>
 </div>
 
-##
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prcordova/prcordova/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prcordova/prcordova/output/github-contribution-grid-snake.svg">
